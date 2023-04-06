@@ -30,3 +30,11 @@ Capture more data for analysis and identifying trends. (e.g., customer interacti
 Identify the best and worst selling items from the analysis and take drastic decision in stocking those items.  
 
 Actively follow the KPI analysis (if possible, quarterly) in monitoring each branches’ performance.  
+
+### Directions to Run Project
+
+1. Run BIS_Sales_Create_Script_As2.sql
+2. Download Raw Data and Run BIS_Sales_ETL_Script_A2.sql 
+3. Run BIS_Sales_Analysis_Script_Final.sql
+4. Download Analysis Result Table in .csv
+5. Open BIA_INC-Sale_Dashboard.pbix and use Analysis Result for live dashboard
