@@ -1,6 +1,8 @@
 # BIA-Inc.-Sales-Performance-Analysis
 A Business Intelligence Project completed for the University of Newcastle. The Project Analyses Sales performance of BIA Inc. (virtual company) and Establishes KPI for Branch Performance
 
+## Please Read The Report File for Details
+
 Background:  
 
 BIA Incorporated is an online sales company which operates out of ten different locations in Australia. In the recent past, company has experienced a drop in sales. They have not been able to make any profit lately. Hence, the need to consolidate its operation and adopt some cost cutting measures. In order facilitate this process, the company wishes to undertake a performance evaluation exercise. As a result of the prior business Intelligence gathering initiative BIA now has a database which is used for sales reporting. The company would like to explore the option of enhancing its database such that it can perform some additional performance evaluation and monitoring on the sales data.  
